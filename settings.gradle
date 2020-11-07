@@ -1,0 +1,8 @@
+rootProject.name='Component'
+include ':app'
+include ':componentbase'
+include ':login-api'
+include ':login-impl'
+include ':base'
+include ':share-api'
+include ':share-impl'
